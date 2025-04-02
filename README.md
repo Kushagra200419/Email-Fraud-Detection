@@ -11,7 +11,7 @@ Email fraud, including phishing and spam attacks, poses a significant threat to 
 ✅ **Real-time detection** with high accuracy  
 
 ## 🛠️ Tech Stack
-- **Programming Language:** Python
+- **Programming Language:** Typescript 
 - **Machine Learning Models:** Random Forest, SVM, Logistic Regression, LSTM
 - **NLP Techniques:** Tokenization, TF-IDF, Word2Vec, BERT
 - **Database:** Supabase
